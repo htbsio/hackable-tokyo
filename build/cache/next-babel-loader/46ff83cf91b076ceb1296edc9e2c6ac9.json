@@ -1,0 +1,1 @@
+{"ast":null,"code":"import Document from \"next/document\";\n\nclass CustomDocument extends Document {\n  static async getInitialProps(ctx) {\n    const initialProps = await Document.getInitialProps(ctx);\n    return initialProps;\n  }\n\n}\n\nexport default CustomDocument;","map":null,"metadata":{},"sourceType":"module"}

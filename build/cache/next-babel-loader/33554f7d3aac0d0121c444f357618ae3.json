@@ -1,0 +1,1 @@
+{"ast":null,"code":"import { jsx as _jsx } from \"react/jsx-runtime\";\nimport React from \"react\";\nimport Image from \"next/image\";\nexport const Logo = () => {\n  return /*#__PURE__*/_jsx(Image, {\n    src: \"/icons/nextjs-icon.svg\",\n    alt: \"nextjs\",\n    width: \"96\",\n    height: \"58\"\n  });\n};","map":null,"metadata":{},"sourceType":"module"}

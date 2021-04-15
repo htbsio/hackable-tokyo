@@ -1,10 +1,40 @@
 {
-  "hello": "Merhaba",
-  "greet": "Merhaba, {{name}}!",
-  "world": "Dünya",
-  "documentation": "Dökümantasyona Git",
-  "language": {
-    "tr": "🇹🇷 Türkçe",
-    "en": "🇺🇸 English"
-  }
+    "hello": "こんにちは",
+    "concept_sub_1": "全てをハック可能に改造するコミュニティ。",
+    "concept_sub_2": "街も、お店も、脳も体も、人生も。",
+    "download_app": "アプリをダウンロード",
+    "hack_me_on_github": "Githubからハック",
+    "coworking_space": "Hackable Cafe / コワーキングスペース",
+    "coworking_space_desc": "Hackable Cafeは、究極の集中スペースを目指すコワーキングスペースです。",
+    "coworking_space_address": "第一拠点: 〒1530064 東京都目黒区下目黒2-16-13 プラチナフォルム目黒1階",
+    "connect_by_the_app": "専用アプリでつながる",
+    "connect_by_the_app_desc": "店舗決済やスペース予約をはじめ、限定イベントのライブ配信、メンバーとのメッセージ・オンライン通話も。",
+    "connect_by_the_app_desc2": "独自のトークンエコノミーシステム（GimmeCoffee）でプロジェクト募集やプレゼントも送れます。",
+    "view_detail": "詳しく見る",
+    "menu": "メニュー",
+    "cafe_feature_1_title": "世界一集中できる場所",
+    "cafe_feature_1_desc": "独自のブラウンノイズで脳をハック。Think Lab製ワークブースを導入。",
+    "cafe_feature_2_title": "通話ブース（防音室）",
+    "cafe_feature_2_desc": "楽器演奏にも使われるサイレントデザイン製の高遮音防音室を用意。WEB会議の多いリモート時代にピッタリ。",
+    "cafe_feature_3_title": "手軽でおいしい",
+    "cafe_feature_3_desc": "独自ブランドの黒糖コーヒーと、フランスのハイクオリティ冷凍食品メーカー・ブランド「Picard」の商品を導入。",
+    "cafe_feature_4_title": "万全のコロナ対策",
+    "cafe_feature_4_desc": "基準以上の換気システムに加え、検温、消毒液、メンバーの発症トラッキングまで。",
+    "everything_on_the_code": "全てをコード上で管理",
+    "everything_on_the_code_desc": "例えば、GithubのPRで、飲食メニューや照明の色、流れている音楽・映像の変更をリクエストできます。",
+    "everything_on_the_code_subtitle1": "エンジニアによってエンジニアのために作られています",
+    "everything_on_the_code_subtitle2": "オープンソースで誰でも変更ができます",
+    "everything_on_the_code_subtitle3": "リアルタイムにダイナミックな変更もプログラム可能です",
+    "virtual_space": "オンラインスペース",
+    "virtual_space_desc": "コミュニティのメンバーと話せる3Dのオンラインスペースを用意しています。",
+    "virtual_space_desc2": "ボイスチャットとビデオ通話が可能です。",
+    "more_projects": "進行中のプロジェクト",
+    "coming_soon": "準備中",
+    "do_you_interested": "Hackable Tokyoに興味がありますか？",
+    "we_have_discord_community": "アプリ以外に、Discordコミュニティがあります！",
+    "join_discord": "Discordに参加",
+    "language": {
+        "ja": "🇯🇵 日本語",
+        "en": "🇺🇸 English"
+    }
 }

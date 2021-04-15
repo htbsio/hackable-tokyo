@@ -12,7 +12,6 @@ const config = {
     publicRuntimeConfig: {
         localeSubpaths,
     },
-    distDir: "build",
 };
 
 module.exports = withPlugins([], config);

@@ -125,7 +125,6 @@ const AdminBase: React.FC<{ t: TFunction }> = ({ t }) => {
                   </p>
                 </blockquote>
               </div>
-
               <div className="block pb-6">
                 <span className="text-xs font-semibold inline-block py-1 px-2 uppercase rounded-full text-gray-600 bg-white uppercase last:mr-0 mr-2 mt-2">
                   高速Wi-Fi

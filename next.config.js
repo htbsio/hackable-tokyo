@@ -11,7 +11,7 @@ const config = {
     rewrites: async () => nextI18NextRewrites(localeSubpaths),
     publicRuntimeConfig: {
         localeSubpaths,
-    }
+    },
 };
 
 module.exports = withPlugins([], config);
